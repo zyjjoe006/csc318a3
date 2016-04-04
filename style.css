@@ -1,0 +1,36 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    width:1200px;
+    margin-left: 20px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar {
+    border-radius: 0px;
+}
+
+.rest {
+    // padding-top: 30px;
+    color:white;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.rest-a{
+	background-color: orange;
+}
+
+.rest-b{
+	background-color: blue;
+}

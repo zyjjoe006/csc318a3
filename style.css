@@ -1,0 +1,21 @@
+body{
+	width:1200px;
+}
+.s8imageItemimage{
+	opacity: 0.9;
+}
+
+.head-typeface{
+	font-family: 'Cookie', cursive;
+	font-size: 100px;
+	font-style: italic;
+	color:#E67E22;
+}
+
+.nav-typeface{
+	// font-family: Calibri,cursive;
+}
+
+.body-typeface{
+
+}

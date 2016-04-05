@@ -13,7 +13,8 @@ body{
 }
 
 .nav-typeface{
-	// font-family: Calibri,cursive;
+	font-family: Forum;
+	font-size: 16px;
 }
 
 .body-typeface{
